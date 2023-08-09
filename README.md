@@ -41,5 +41,5 @@ Handles Functions For Printing To Stdout
 ------------
 
 ### Authors
-**Karim ASSIHOUT & Ismail LAMAAKAL © ALX - Software Engineering Programme (2023)**
+
 
